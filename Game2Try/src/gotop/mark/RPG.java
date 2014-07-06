@@ -21,6 +21,7 @@ public class RPG {
 		
 		swordman.showBlood(swordman);
 		magician.showBlood(magician);
+		/* test */
 		
 
 	}
