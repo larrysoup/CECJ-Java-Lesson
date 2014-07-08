@@ -5,6 +5,6 @@ public class SwordsMan extends Role{
 		super(name, level, blood);
 	}
 	public void fight() {
-		System.out.println("´§¼C§ğÀ»");
+		System.out.println("æ®åŠæ”»æ“Š");
 	}
 }

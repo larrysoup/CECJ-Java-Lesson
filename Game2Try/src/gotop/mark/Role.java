@@ -34,7 +34,7 @@ public class Role {
 		this.name = name;
 	}
 	
-	public void showBlood(Role role) {	// ¼g¦bRole¤¤¦¨¬°¹ê¨Ò¤èªk
-		System.out.printf("%s ¦å¶q %d%n", role.getName(), role.getBlood());
+	public void showBlood(Role role) {	//å¯«åœ¨Roleä¸­æˆç‚ºå¯¦ä¾‹æ–¹æ³•
+		System.out.printf("%s è¡€é‡ %d%n", role.getName(), role.getBlood());
 	}
 }

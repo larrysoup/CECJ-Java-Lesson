@@ -5,10 +5,10 @@ public class Magician extends Role{
 		super(name, level, blood);
 	}
 	public void fight() {
-		System.out.println("Å]ªk§ðÀ»");
+		System.out.println("é­”æ³•æ”»æ“Š");
 	}
 	
 	public void cure() {
-		System.out.println("Å]ªkªvÀø");
+		System.out.println("é­”æ³•æ²»ç™’");
 	}
 }
