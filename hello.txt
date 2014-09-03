@@ -1,5 +1,8 @@
 ok
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> testing2
 testing2
